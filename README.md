@@ -30,5 +30,3 @@ I'm passionate about **statistics applied to sports**. My work focuses on using 
 ### 😄 Pronouns
 - He/Him
 
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
