@@ -5,8 +5,7 @@ I'm passionate about **statistics applied to sports**. My work focuses on using 
 ### 🔭 I’m currently working on
 - Building a comprehensive [blog](https://datum.bearblog.dev/) on **applied sports statistics**.
 - Ranking and rating methods for sports teams and players.
-- Developing open-source tools for sports data analysis.
-
+  
 ### 🌱 I’m currently learning
 - Advanced techniques in **machine learning** and **data visualization**.
 - Expanding my knowledge of **R** and **Python** for statistical analysis.
