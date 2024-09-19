@@ -5,6 +5,7 @@ I'm passionate about **statistics applied to sports**. My work focuses on using 
 ### 🔭 I’m currently working on
 - Building a comprehensive [blog](https://datum.bearblog.dev/) on **applied sports statistics**.
 - Ranking and rating methods for sports teams and players.
+- Player Contribution: a method for allocating credit for a team’s performance to the individual contributors on a hockey team.
   
 ### 🌱 I’m currently learning
 - Advanced techniques in **machine learning** and **data visualization**.
